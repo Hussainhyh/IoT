@@ -1,0 +1,6 @@
+In mqtt.c file we should make telemetry state = 0
+and remove // for it at the last line almost 
+
+
+in nx_client.c we should remove (//)at the begining for the telemetry stata /* */ for reback using the other sensors and also in the switch function you should change something .
+(telemetry_state = TELEMETRY_STATE_DEFAULT) INSTEAD OF (telemetry_state = TELEMETRY_STATE_ACCELEROMETER)
