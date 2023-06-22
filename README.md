@@ -8,7 +8,7 @@ Follow the link bellow for more details
 #### Use the codes (label data and last stand) 
 
 
-##### Vedio for how it works
-###### 
+##### Watch the Video for how it works
+###### [Downlaod](https://github.com/Hussainhyh/Predicts-hand-movements-and-detects-writing-Iot-/blob/main/video_2023-04-16_22-49-41.mp4) 
 
 
