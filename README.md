@@ -1,6 +1,6 @@
 # Predicts-hand-movements-and-detects-writing-Iot-
 
-## #First you should creatE Microsoft Azure account 
+## #First you should create Microsoft Azure account 
 
 ### #In the Iot central application create new app then add the device(MXCHIP Devkit)
 Follow the link bellow for more details
